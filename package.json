@@ -1,7 +1,7 @@
 {
   "name": "green-nexus",
   "version": "1.0.0",
-  "description": "A next project generated based on a UIDL document",
+  "description": "Green Nexus: The Hub for Green Fundraising",
   "main": "index.js",
   "scripts": {
     "dev": "next",
